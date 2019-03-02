@@ -1,0 +1,30 @@
+ 1  which bash
+    2  git init
+    3  cd -
+    4  ./functiondemo.sh
+    5  ls
+    6  cd shell
+    7  cd /opt
+    8  ls
+    9  cd DEMO-1
+   10  ls
+   11  cd shell
+   12  ls
+   13  ls- la
+   14  ls
+   15  ls -la
+   16  chmod +x functiondemo.sh
+   17  ./functiondemo.sh
+   18  vi argumentpassing.sh
+   19  chmod +x argumentpassing.sh
+   20  ./argumentpassing.sh
+   21  ls
+   22  vi basharg.sh
+   23  chmod +x basharg.sh
+   24  ./basharg.sh
+   25  vi basharg.sh
+   26  ./basharg.sh
+   27  vi basharg.sh
+   28  ./basharg.sh
+   29  vi basharg.sh
+   30  history
