@@ -1,0 +1,192 @@
+  1  which bash
+    2  git init
+    3  cd -
+    4  yum install git -y
+    5  git init
+    6  cd /opt
+    7  git clone https://github.com/KBSK/DEMO-1.git
+    8  cd DEMO-1
+    9  git status
+   10  mkdir shell scripting
+   11  ls
+   12  cd shell scripting
+   13  ls
+   14  vi tar demo.sh
+   15  bash tar demo.sh
+   16  ls
+   17  bash tar
+   18  ls
+   19  cd /root
+   20  ls
+   21  tar -czf c.tar *
+   22  ls
+   23  history
+   24  git init
+   25  ls
+   26  tar -tvf c.tar
+   27  ls
+   28  tar -tvf  c.tar
+   29  ls
+   30  sudo su -
+   31  cd
+   32  ls
+   33  cd /root
+   34  ls
+   35  tar -tvf c.tar
+   36  cd /opt
+   37  ls
+   38  cd DEMO-1
+   39  ls
+   40  cd scripting shell
+   41  ls
+   42  cd shell
+   43  cd shell scripting
+   44  ls
+   45  cd DEMO-1
+   46  LS
+   47  CD -
+   48  cd /root
+   49  ls
+   50  git init
+   51  ls
+   52  git init
+   53  ls
+   54  git status
+   55  ls
+   56  tar -tzf c.tar
+   57  sudo su -
+   58  cd DEMO1
+   59  git https://github.com/KBSK/DEMO-1.git
+   60  ls
+   61  git staus
+   62  git status
+   63  cd /opt
+   64  ls
+   65  cd DEMO-1
+   66  LS
+   67  ls
+   68  cd scripting shell
+   69  ls
+   70  cd /
+   71  ls
+   72  cd DEMO-1
+   73  ls
+   74  cd /opt
+   75  ls
+   76  cd DEMO-1
+   77  ls
+   78  cd shell
+   79  ls
+   80  tar -tvf
+   81  tar -tvf homedirbackup_20190302.tar.gz
+   82  tar -rvf homedirbackup_20190302.tar.gz
+   83  tar -rzf homedirbackup_20190302.tar.gz
+   84  ls
+   85  vi functiondemo.sh
+   86  ls
+   87  $?
+   88  echo $?
+   89  vi functiondemo.sh
+   90  ./functiondemo.sh
+   91  sudo su -
+   92  ./functiondemo.sh
+   93  ls
+   94  cd shell
+   95  cd /opt
+   96  ls
+   97  cd DEMO-1
+   98  ls
+   99  cd shell
+  100  ls
+  101  ls- la
+  102  ls
+  103  ls -la
+  104  chmod +x functiondemo.sh
+  105  ./functiondemo.sh
+  106  vi argumentpassing.sh
+  107  chmod +x argumentpassing.sh
+  108  ./argumentpassing.sh
+  109  ls
+  110  vi basharg.sh
+  111  chmod +x basharg.sh
+  112  ./basharg.sh
+  113  vi basharg.sh
+  114  ./basharg.sh
+  115  vi basharg.sh
+  116  ./basharg.sh
+  117  vi basharg.sh
+  118  history
+  119  vi march 2
+  120  git add march 2
+  121  ls
+  122  git add march
+  123  git push -u origin master
+  124  git add march
+  125  git remote add origin https://github.com/KBSK/DEMO-1.git
+  126  git push -u origin master
+  127  git commit -m "first commit"
+  128  git add march
+  129  git remote add origin https://github.com/KBSK/DEMO-1.git
+  130  git push -u origin master
+  131  shutdown
+  132  ls
+  133  vi 3march.sh
+  134  ./3march.sh
+  135  chmod +x 3march.sh
+  136  ./3march.sh
+  137  ls
+  138  chmod +x 3march
+  139  ./3march
+  140  vi 3march
+  141  ./3march
+  142  vi 3march
+  143  cd /opt
+  144  ls
+  145  cd DEMO-1
+  146  ls
+  147  mkdir d
+  148  ls
+  149  cd d
+  150  vi redirection.sh
+  151  ./redirection.sh
+  152  chmod +x redirection.sh
+  153  ./redirection.sh
+  154  vi redirection.sh
+  155  ./redirection.sh
+  156  vi redirection.sh
+  157  ls
+  158  ./redirection.sh
+  159  ls
+  160  cat outfile.txt
+  161  vi redirection.sh
+  162  ./redirection.sh
+  163  cat f.txt
+  164  vi ifelse
+  165  chmod +x ifelse
+  166  ./ifelse
+  167  vi ifelse1.sh
+  168  chmod +x ifelse1.sh
+  169  ./ifelse1.sh
+  170  vi ifelse1.sh
+  171  vi filetest.sh
+  172  chmod +x filetest.sh
+  173  ./filetest.sh
+  174  vi filetest.sh
+  175  ./filetest.sh
+  176  vi filetest.sh
+  177  ls
+  178  cat ifelse
+  179  ls
+  180  vi case.sh
+  181  chmod +x case.sh
+  182  ./case.sh
+  183  vi case.sh
+  184  ./case.sh
+  185  vi for.sh
+  186  chmod +x for.sh
+  187  ./for.sh
+  188  cat ifelse
+  189  ./for.sh
+  190  cat for.sh
+  191  history
+
